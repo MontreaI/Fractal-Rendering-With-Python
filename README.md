@@ -1,4 +1,4 @@
-# Fractals-Imaging-With-Python
+# Fractals Imaging With Python
 
 
 A simple fractals program adapted from Kirby Urner's code found [here](http://tkinter.unpythonic.net/wiki/FractalImage)
