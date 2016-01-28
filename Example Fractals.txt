@@ -1,0 +1,38 @@
+I decided to put 4 since I found 4 that I liked, but you don't have to look at all of them!
+The names inside the brackets are the name of fractal that I gave it because of what they resembled to me.. in my opinion..
+
+
+Julia Fractal ("The Hole")
+
+n iterations 300
+max 'x'   -0.557543936
+max 'y'   -0.285124772
+min 'x'   -0.562010112
+min 'y'   -0.28746784
+
+Julia Fractal ("I am not reflective")
+
+n iterations 500
+max 'x'   -0.55928574464
+max 'y'   -0.28517163336
+min 'x'   -0.560679191552
+min 'y'   -0.285808947856
+
+#=========================================================================================================#
+
+Mandelbrot ("Spider")
+
+n iterations 500
+max 'x'   0.34344272
+max 'y'   0.55756572
+min 'x'   0.34211432
+min 'y'   0.556719392
+
+
+Mandelbrot ("Colourful?")
+
+n iterations 350
+max 'x'   0.343225675381
+max 'y'   0.557234419826
+min 'x'   0.343199399629 
+min 'y'   0.557224219881
